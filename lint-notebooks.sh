@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the notebook directory
-NOTEBOOK_DIR="01_an_apple_a_day/notebooks"
+NOTEBOOK_DIR="solutions"
 
 echo "📌 Running nbQA Linting & Formatting on Notebooks in $NOTEBOOK_DIR..."
 
