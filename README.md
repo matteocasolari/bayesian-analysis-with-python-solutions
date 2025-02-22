@@ -18,7 +18,37 @@ This repository contains solutions to the programming exercises from [*Bayesian 
   - [Chapter 10: Inference Engines](#chapter-10-inference-engines)  
 
 ## Environment Setup  
-*Instructions for setting up the Python environment and required dependencies will be added here.*  
+
+To set up the Python environment and install dependencies using Conda, follow these steps:  
+
+### 1. Create a Conda Environment  
+Run the following command to create a new Conda environment:  
+
+```bash
+conda create --name bayesian-analysis-with-python python=3.10
+```
+
+Activate the environment:  
+
+```bash
+conda activate bayesian-analysis-with-python
+```
+
+### 2. Install Dependencies  
+Once the environment is activated, install the required packages from `requirements.txt`:  
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Verify Installation  
+Check if the dependencies are installed correctly:  
+
+```bash
+pip list
+```
+
+Now you're ready to run the solutions! 🚀   
 
 ## Solutions  
 
