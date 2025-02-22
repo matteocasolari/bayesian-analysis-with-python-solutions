@@ -6,3 +6,4 @@ kulprit==0.0.1
 preliz==0.3.6
 nutpie==0.9.1
 nbqa==1.9.1
+isort==6.0.0
