@@ -53,7 +53,10 @@ Now you're ready to run the solutions! 🚀
 ## Solutions  
 
 ### Chapter 1 Thinking Probabilistically  
-- [ ] Solutions coming soon  
+
+Implementation of the solution of Chapter 1
+
+[Notebook](solutions/chapter_01.ipynb)
 
 ### Chapter 2 Programming Probabilistically  
 - [ ] Solutions coming soon  
